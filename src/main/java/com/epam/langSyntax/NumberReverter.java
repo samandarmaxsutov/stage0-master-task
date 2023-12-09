@@ -14,8 +14,5 @@ public class NumberReverter {
         System.out.println(rNumber); // 984
     }
 
-    public static void main(String[] args) {
-        NumberReverter numberReverter = new NumberReverter();
-        numberReverter.revert(489); // Replace 489 with the desired 3-digit number
-    }
+
 }
